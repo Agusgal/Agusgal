@@ -5,10 +5,11 @@
 ## 🌐 Socials:
 [![Linkedin](https://img.shields.io/badge/Linkedin-2d64bc?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://) 
 <p align="center">
-    <a href="[https://www.linkedin.com/in/lucas-agust%C3%ADn-kammann-90010b157/](https://www.linkedin.com/in/lkammann/)"><img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+    [![Linkedin](https://img.shields.io/badge/Linkedin-2d64bc?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://) 
     <a href="https://github.com/DenverCoder1?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Agusgal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
+
 # 💻 Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
