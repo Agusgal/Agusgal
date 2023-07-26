@@ -1,13 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Agustín</h1>
 <h3 align="center">A passionate electronics engineering student from Argentina</h3>
 
-- 📫 How to reach me **agaldeman@itba.edu.ar**
-### Conect with me:
-
-
-<h1 align="center">Hi there 👋, I'm Agustín</h1>
-<h3 align="center">A passionate electronics engineering student from Argentina</h3>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agustin-galdeman) 
