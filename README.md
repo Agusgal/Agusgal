@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-![Static Badge](https://img.shields.io/badge/Altium-gray?style=for-the-badge&logo=altiumdesigner&logoColor=black&labelColor=%23e8eaed&color=%23e8eaed)
+
 
 <p align="center">
     <a href="https://www.linkedin.com/in/agustin-galdeman/">
@@ -24,6 +24,9 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
+
+# 🛠️ Tools: 
+![Static Badge](https://img.shields.io/badge/Altium-gray?style=for-the-badge&logo=altiumdesigner&logoColor=black&labelColor=%23e8eaed&color=%23e8eaed)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Agusgal&theme=city_light&hide_border=false&include_all_commits=false&count_private=true)<br/>
