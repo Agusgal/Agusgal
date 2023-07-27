@@ -28,6 +28,9 @@
 # 🛠️ Tools: 
 ![Static Badge](https://img.shields.io/badge/Altium-gray?style=for-the-badge&logo=altiumdesigner&logoColor=black&labelColor=%23e8eaed&color=%23e8eaed)
 ![LTspice](https://img.shields.io/static/v1?style=for-the-badge&message=LTspice&color=900028&logo=LTspice&logoColor=FFFFFF&label=)
+![Static Badge](https://img.shields.io/badge/Matlab-%23BE662C?style=for-the-badge&labelColor=MATLAB)
+![Static Badge](https://img.shields.io/badge/Quartus-Prime?style=for-the-badge&labelColor=Quartus%20Prime&color=%231C4795)
+
 
 
 # 📊 GitHub Stats:
