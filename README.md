@@ -27,6 +27,8 @@
 
 # 🛠️ Tools: 
 ![Static Badge](https://img.shields.io/badge/Altium-gray?style=for-the-badge&logo=altiumdesigner&logoColor=black&labelColor=%23e8eaed&color=%23e8eaed)
+![LTspice](https://img.shields.io/static/v1?style=for-the-badge&message=LTspice&color=900028&logo=LTspice&logoColor=FFFFFF&label=)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Agusgal&theme=city_light&hide_border=false&include_all_commits=false&count_private=true)<br/>
