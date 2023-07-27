@@ -3,7 +3,6 @@
 
 
 ## 🌐 Socials:
-[![Linkedin](https://img.shields.io/badge/Linkedin-2d64bc?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://) 
 <p align="center">
     <a href="[https://www.linkedin.com/in/lucas-agust%C3%ADn-kammann-90010b157/](https://www.linkedin.com/in/lkammann/)"><img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
     <a href="https://github.com/DenverCoder1?tab=followers">
