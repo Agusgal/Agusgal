@@ -3,6 +3,7 @@
 
 
 ## 🌐 Socials:
+https://img.shields.io/badge/bitcoin?style=flat&logo=bitcoin&logoColor=A5915F
 
 <p align="center">
     <a href="https://www.linkedin.com/in/agustin-galdeman/">
