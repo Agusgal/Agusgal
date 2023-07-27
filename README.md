@@ -4,7 +4,9 @@
 
 ## 🌐 Socials:
 <p align="center">
-    <a href="[https://www.linkedin.com/in/lucas-agust%C3%ADn-kammann-90010b157/](https://www.linkedin.com/in/lkammann/)"><img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/agustin.galdeman/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
     <a href="https://github.com/DenverCoder1?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Agusgal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
