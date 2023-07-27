@@ -31,7 +31,9 @@
 ![LTspice](https://img.shields.io/static/v1?style=for-the-badge&message=LTspice&color=900028&logo=LTspice&logoColor=FFFFFF&label=)
 ![Matlab](https://img.shields.io/badge/Matlab-%23BE662C?style=for-the-badge&labelColor=MATLAB)
 ![Quartus](https://img.shields.io/badge/Quartus-Prime?style=for-the-badge&labelColor=Quartus%20Prime&color=%231C4795)
-![Static Badge](https://img.shields.io/badge/Qt-gray?style=for-the-badge&logo=qt&logoColor=%2341CD52)
+![Qt](https://img.shields.io/badge/Qt-gray?style=for-the-badge&logo=qt&logoColor=%2341CD52)
+![NodeRED](https://img.shields.io/badge/Node%20RED-red?style=for-the-badge&logo=nodered&logoColor=%238F0000)
+
 
 
 
