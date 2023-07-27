@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-https://img.shields.io/badge/a?logo=altiumdesigner
+![Static Badge](https://img.shields.io/badge/Altium?logo=altiumdesigner&logoColor=%23A5915F)
 
 <p align="center">
     <a href="https://www.linkedin.com/in/agustin-galdeman/">
