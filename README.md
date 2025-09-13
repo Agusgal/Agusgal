@@ -14,7 +14,7 @@
 
 ## 💡 About Me
 - 🎓 Electronics Engineer from Argentina, passionate about **semiconductors and integrated circuits**  
-- 🖋️ Experienced in **Analog & Mixed-Signal IC Design**, including **OTA, current mirrors, noise & mismatch analysis**  
+- 🖋️ Experienced in **Analog & Mixed-Signal IC Layout**  
 - 🖌️ Skilled in **circuit layout** (matching, symmetry, parasitic-aware design, DRC/LVS verification)  
 - ⚙️ Work with **HDLs (Verilog, VHDL, SystemVerilog)** for FPGA/ASIC design  
 - 🔬 Hands-on with **EDA tools** like Cadence Virtuoso, Synopsys, Quartus, ModelSim, LTspice, and Altium  
