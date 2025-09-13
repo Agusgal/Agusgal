@@ -64,15 +64,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agusgal&theme=city_light&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 </p>
 
----
-
-## 🔬 Interests & Focus Areas
-- Analog & Mixed-Signal IC Design  
-- OTA design, Current Mirrors, Noise & Mismatch analysis  
-- IC **Layout techniques** (matching, symmetry, parasitic extraction)  
-- FPGA/ASIC design flows (RTL to GDS)  
-- Simulation & Verification (SPICE, HDL, Matlab)  
-- Semiconductor industry & technology trends  
 
 ---
 
