@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Agustín</h1>
-<h3 align="center">⚡ Electronics Engineer | Circuit Designer | FPGA/ASIC Enthusiast ⚡</h3>
+<h3 align="center">⚡ Electronics Engineer | Analog & Mixed-Signal IC Designer | FPGA/ASIC Enthusiast ⚡</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/agustin-galdeman/">
@@ -9,6 +9,17 @@
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
   </a>
 </p>
+
+---
+
+## 💡 About Me
+- 🎓 Electronics Engineer from Argentina, passionate about **semiconductors and integrated circuits**  
+- 🖋️ Experienced in **Analog & Mixed-Signal IC Design**, including **OTA, current mirrors, noise & mismatch analysis**  
+- 🖌️ Skilled in **circuit layout** (matching, symmetry, parasitic-aware design, DRC/LVS verification)  
+- ⚙️ Work with **HDLs (Verilog, VHDL, SystemVerilog)** for FPGA/ASIC design  
+- 🔬 Hands-on with **EDA tools** like Cadence Virtuoso, Synopsys, Quartus, ModelSim, LTspice, and Altium  
+- 📈 Strong background in **circuit simulation, verification, and system-level modeling**  
+- 🌍 Interested in **semiconductor industry R&D**, bridging analog/digital design  
 
 ---
 
@@ -58,9 +69,10 @@
 ## 🔬 Interests & Focus Areas
 - Analog & Mixed-Signal IC Design  
 - OTA design, Current Mirrors, Noise & Mismatch analysis  
+- IC **Layout techniques** (matching, symmetry, parasitic extraction)  
 - FPGA/ASIC design flows (RTL to GDS)  
 - Simulation & Verification (SPICE, HDL, Matlab)  
-- Semiconductor technology & circuit layout  
+- Semiconductor industry & technology trends  
 
 ---
 
