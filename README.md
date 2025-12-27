@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Agustín</h1>
-<h3 align="center">⚡ Electronics Engineer | Analog & Mixed-Signal Layout Engineer | FPGA/ASIC Enthusiast ⚡</h3>
+<h3 align="center"> Electronics Engineer | Analog & Mixed-Signal Layout Engineer | FPGA/ASIC Enthusiast </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/agustin-galdeman/">
