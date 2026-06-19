@@ -56,8 +56,3 @@
 </p>
 
 ---
-
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Agusgal&icon=0&color=2" alt="Profile Visits">
-</p>
