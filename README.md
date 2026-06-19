@@ -12,18 +12,18 @@
 
 ---
 
-## 💡 About Me
-- 🎓 Electronics Engineer from Argentina, passionate about **semiconductors and integrated circuits**
-- 📚 Currently pursuing a **Master’s degree in Microelectronics**  
-- 🖌️ Skilled in **circuit layout** (matching, symmetry, parasitic-aware design, DRC/LVS verification)  
-- ⚙️ Work with **HDLs (Verilog, VHDL, SystemVerilog)** for FPGA/ASIC design  
-- 🔬 Hands-on with **EDA tools** like Cadence Virtuoso, Synopsys, Quartus, ModelSim, LTspice, and Altium  
-- 📈 Strong background in **circuit simulation, verification, and system-level modeling**  
-- 🌍 Interested in **semiconductor industry R&D**, bridging analog/digital design  
+## About Me
+- Electronics Engineer from Argentina, passionate about **semiconductors and integrated circuits**
+- Currently pursuing a **Master’s degree in Microelectronics**  
+- Skilled in **circuit layout** (matching, symmetry, parasitic-aware design, DRC/LVS verification)  
+- Work with **HDLs (Verilog, VHDL, SystemVerilog)** for FPGA/ASIC design  
+- Hands-on with **EDA tools** like Cadence Virtuoso, Synopsys, Quartus, ModelSim, LTspice, and Altium  
+- Strong background in **circuit simulation, verification, and system-level modeling**  
+- Interested in **semiconductor industry R&D**, bridging analog/digital design  
 
 ---
 
-## 💻 Programming Languages
+## Programming Languages
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -35,7 +35,7 @@
 
 ---
 
-## 🔧 Hardware Description Languages
+## Hardware Description Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Verilog-acb2c0?style=for-the-badge">
   <img src="https://img.shields.io/badge/VHDL-acb2c0?style=for-the-badge&color=acb2c0">
@@ -44,7 +44,7 @@
 
 ---
 
-## 🛠️ Tools & EDA Software
+## Tools & EDA Software
 <p align="center">
   <img src="https://img.shields.io/badge/Altium-gray?style=for-the-badge&logo=altiumdesigner&logoColor=black">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LTspice&color=900028&logo=LTspice&logoColor=FFFFFF">
