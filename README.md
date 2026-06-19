@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Agustín</h1>
+<h1 align="center"> Agustín Galdeman </h1>
 <h3 align="center"> Digital IC Designer </h3>
 
 <p align="center">
